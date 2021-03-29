@@ -7,7 +7,7 @@
 ##### Heading 5
 ###### Heading 6
 
-```Markdown
+```markdown
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -17,11 +17,11 @@
 ```
 
 **Bold Text**
-```
+```markdown
 **Bold Text** or __Bold Text__
 ```
 
 *Italic Text*
- ```
+ ```markdown
  *Italic Text* or _Italic Text_
  ```
