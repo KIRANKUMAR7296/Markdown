@@ -48,6 +48,13 @@ or
 * Mango
 * Banana
 * Kiwi
+
+<ul>
+ <li>Apple</li>
+ <li>Mango</li>
+ <li>Banana</li>
+ <li>Kiwi</li>
+</ul>
 ```
 
 ### Ordered List 
@@ -64,6 +71,15 @@ or
 3. OnePlus
 4. Mi
 5. Realme
+
+or 
+
+<ol type='1'>
+ <li>Apple</li>
+ <li>Mango</li>
+ <li>Banana</li>
+ <li>Kiwi</li>
+</ol>
 ```
 
 ### `Code` Tag
