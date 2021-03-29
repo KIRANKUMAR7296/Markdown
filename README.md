@@ -76,14 +76,14 @@ or
 
 <ol type='1'>
  <li>Apple</li>
- <li>Mango</li>
- <li>Banana</li>
- <li>Kiwi</li>
+ <li>Samsung</li>
+ <li>OnePlus</li>
+ <li>Mi</li>
+ <li>Realme</li>
 </ol>
 ```
-
 ### `Code` Tag
 
 ```markdown
-`Code` Tag
+`Code` Tag or <code>Code</code> Tag
 ```
