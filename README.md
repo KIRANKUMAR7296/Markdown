@@ -1,1 +1,1 @@
-<h1><img src="MarkdownWhite.svg" width=42px>&nbsp;Markdown</h1>
+<h1><img src="MarkdownWhite.svg" width=40px>&nbsp;Markdown</h1>
