@@ -21,13 +21,13 @@
 ### **Bold Text**
 
 ```markdown
-**Bold Text** or __Bold Text__
+**Bold Text** or __Bold Text__ or <strong></strong> or <b></b>
 ```
 
 ### *Italic Text*
 
  ```markdown
- *Italic Text* or _Italic Text_
+ *Italic Text* or _Italic Text_ or <em></em> or <i></i>
  ```
 
 ### Unordered List 
