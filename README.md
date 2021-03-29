@@ -25,3 +25,16 @@
  ```markdown
  *Italic Text* or _Italic Text_
  ```
+
+### Unordered List 
+- Apple
+- Mango
+- Banana
+- Kiwi
+
+```markdown
+- Apple
+- Mango
+- Banana
+- Kiwi
+```
