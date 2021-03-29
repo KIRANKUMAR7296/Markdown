@@ -33,8 +33,15 @@
 - Kiwi
 
 ```markdown
-- Apple
-- Mango
-- Banana
-- Kiwi
+- Apple |
+- Mango |
+- Banana |
+- Kiwi |
+
+or 
+
+* Apple
+* Mango
+* Banana
+* Kiwi
 ```
