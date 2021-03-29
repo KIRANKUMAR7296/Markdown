@@ -1,5 +1,7 @@
 <h1 align="center"><img src="MarkdownWhite.svg" width=38px>&nbsp;Markdown</h1>
 
+[Markdown](https://www.markdownguide.org/) | [Common Mark](https://commonmark.org/)
+
 ### Headings
 
 # Heading 1
