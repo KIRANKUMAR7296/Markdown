@@ -1,5 +1,7 @@
 <h1 align="center"><img src="MarkdownWhite.svg" width=38px>&nbsp;Markdown</h1>
 
+### Headings
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -16,12 +18,14 @@
 ###### Heading 6
 ```
 
-**Bold Text**
+### **Bold Text**
+
 ```markdown
 **Bold Text** or __Bold Text__
 ```
 
-*Italic Text*
+### *Italic Text*
+
  ```markdown
  *Italic Text* or _Italic Text_
  ```
