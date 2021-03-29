@@ -2,8 +2,6 @@
 
 [Markdown](https://www.markdownguide.org/) | [Common Mark](https://commonmark.org/)
 
-### Headings
-
 # Heading 1
 ## Heading 2
 ### Heading 3
