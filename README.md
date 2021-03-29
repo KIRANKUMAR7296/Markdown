@@ -65,3 +65,9 @@ or
 4. Mi
 5. Realme
 ```
+
+### `Code` Tag
+
+```markdown
+`Code` Tag
+```
