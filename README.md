@@ -49,3 +49,19 @@ or
 * Banana
 * Kiwi
 ```
+
+### Ordered List 
+
+1. Apple
+2. Samsung
+3. OnePlus
+4. Mi
+5. Realme
+
+```markdown
+1. Apple
+2. Samsung
+3. OnePlus
+4. Mi
+5. Realme
+```
